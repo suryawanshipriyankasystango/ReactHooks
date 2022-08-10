@@ -1,0 +1,14 @@
+What is useEffect?
+ UseEffect is a hook which allows you to do side effects
+ meaning - any work outside of the component or whenever you do something that affects the state of the component, that is side effects.
+ API request, change document title, setting up an event listener
+
+ How useEffect works?
+ by default it runs after every re-render
+ dependency array
+ you can add multiple useEffect
+ cannot call conditionally
+ cleanup function
+
+
+ By using this Hook, you tell React that your component needs to do something after render.

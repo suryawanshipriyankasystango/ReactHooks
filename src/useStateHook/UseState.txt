@@ -1,0 +1,5 @@
+"use" word for all hooks
+component first letter should be capital
+hooks needs to be in component or function body
+can't call conditionally
+can import or React.useState()
